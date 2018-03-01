@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jl">sampleImage</string>
+    <string name="cardViewIcon">cardViewIcon</string>
+    <string name="example_text">Jokes will appear here</string>
+    <string name="movie">Movies</string>
+    <string name="watch">Watch some movies</string>
+    <string name="joke">Jokes</string>
+    <string name="tellajoke">Tell a joke</string>
+    <string name="makemesleep">Make me sleep</string>
+    <string name="jokedescription">If you\'re still bored then try sleeping</string>
+    <string name="Ar">Augmented Reality</string>
+    <string name="Ardescription">See some cool Augmented Reality animations</string>
+    <string name="example_joke">Jokes will appear here</string>
+    <string name="submit_content">submit</string>
+    <string name="movieRecycler">movieRecycler</string>
+    <string name="hypnosis_spira">hypnosis</string>
+    <string name="collapse">collapseimage</string>
+</resources>

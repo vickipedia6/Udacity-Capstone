@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Markerless</string>
+    <string name="instructions">Hi there, this app detects only hard surfaces.All you have to do is to press any one of the three buttons and you can see the 3-d animation. If it does not occur after many tries then try placing it in hand like shown in the above immage(maintain some distance between hands and camera).</string>
+    <string name="hypnosis_spiral_des">hypnosis_spiral</string>
+    <string name="example_image">example</string>
+    <string name="Ar_head">INSTRUCTIONS</string>
+    <string name="ar_button">Ready to see some cool stuff?</string>
+</resources>

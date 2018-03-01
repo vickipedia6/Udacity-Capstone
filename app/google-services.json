@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "716240358516",
+    "firebase_url": "https://bored-91206.firebaseio.com",
+    "project_id": "bored-91206",
+    "storage_bucket": "bored-91206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716240358516:android:e695ff405784718f",
+        "android_client_info": {
+          "package_name": "com.vicki.bored.bored"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716240358516-juidimqb7a13foermcv0kk4via13r6nb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vicki.bored.bored",
+            "certificate_hash": "66bb6b1dda7d6ce936ed03ac4771ef59289bb40f"
+          }
+        },
+        {
+          "client_id": "716240358516-6bj24g291au24ofifqr6tbvim6rvdee9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2cfpc1YyYsO4c4DyYnph7Qldn2Dc7gKs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716240358516-6bj24g291au24ofifqr6tbvim6rvdee9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

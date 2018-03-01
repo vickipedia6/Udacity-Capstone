@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+<android.support.v7.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/chandler"
+        android:contentDescription="@string/widgetContent"
+        android:id="@+id/movie_image"/>
+
+    <TextView
+        android:id="@+id/movie_title_grid"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_gravity="bottom"
+        android:background="#000000"
+        android:text=""
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:gravity="center"
+        android:textColor="#ffffff"/>
+</android.support.v7.widget.CardView>
+</RelativeLayout>

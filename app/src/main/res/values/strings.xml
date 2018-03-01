@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Bored?</string>
+    <string name="error_message">Sorry! An error occurred. Please try again.</string>
+    <string name="error_title">Error occurred.. please sit idle :P</string>
+    <string name="error_dialog_message">Check your internet</string>
+    <string name="error_positive_button_text">OK</string>
+    <string name="popular_button">Popular Movies</string>
+    <string name="top_rated_button">Top Rated Movies</string>
+    <string name="favorite_button">Favorite Movies</string>
+    <string name="title">Title</string>
+    <string name="release_date">2017</string>
+    <string name="rating">10/10</string>
+    <string name="API">ad9b1f951570d2497f45d7b611334c78</string>
+    //hey there,here's what you are searching for :)
+    <string name="popular">popular</string>
+    <string name="top_rated">top_rated</string>
+    <string name="favorite">favorite</string>
+    <string name="review">Review</string>
+    <string name="tab">tab</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="comment">Comment</string>
+    <string name="commentTitle">Comment :</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="sent_to_firebase">Sent to firebase database</string>
+    <string name="instructions_spiral">Take 3 slow and deep breath continue taking deep breath for the rest of the induction count 1 when you breath in and count 2 when you breath out watch the hypnosis spiral and let your eyes unfocused.</string>
+    <string name="chandlerr">chandlerImage</string>
+    <string name="jl">sampleImage</string>
+    <string name="cardViewIcon">cardViewIcon</string>
+    <string name="widgetContent">widgetContent</string>
+    <string name="submit_comment">submit</string>
+    <string name="press_here">Press Here</string>
+    <string name="example_text">Jokes will appear here</string>
+    <string name="hypnosis_head">INSTRUCTIONS</string>
+    <string name="movie">Movies</string>
+    <string name="watch">Watch some movies</string>
+    <string name="joke">Jokes</string>
+    <string name="tellajoke">Tell a joke</string>
+    <string name="makemesleep">Make me sleep</string>
+    <string name="jokedescription">If you\'re still bored then try sleeping</string>
+    <string name="Ar">Augmented Reality</string>
+    <string name="Ardescription">See some cool Augmented Reality animations</string>
+    <string name="example_joke">Jokes will appear here</string>
+    <string name="submit_content">submit</string>
+    <string name="movieRecycler">movieRecycler</string>
+    <string name="hypnosis_spira">hypnosis</string>
+    <string name="collapse">collapseimage</string>
+    <string name="child">child</string>
+    <string name="image_base_url">http://image.tmdb.org/t/p/w185/</string>
+    <string name="bundle_joke">joke</string>
+    <string name="alert">error_dialog</string>
+    <string name="joke_base_url">http://api.icndb.com/jokes/random/1</string>
+    <string name="requestMethod">GET</string>
+    <string name="valuejson">value</string>
+    <string name="jokejson">joke</string>
+    <string name="moviejson">results</string>
+    <string name="posterpath">poster_path</string>
+    <string name="movieid">id</string>
+    <string name="movietitle">title</string>
+    <string name="movieoverview">overview</string>
+    <string name="release_date_moviee">release_date</string>
+    <string name="vote">vote_average</string>
+    <string name="detailurl">http://image.tmdb.org/t/p/w185/</string>
+    <string name="remove">Removed from database</string>
+    <string name="added">Added to database</string>
+    <string name="action">Action</string>
+    <string name="base_url">https://api.themoviedb.org/3/</string>
+    <string name="reviewExtension">/reviews?api_key=</string>
+    <string name="trailer">/videos?api_key=</string>
+    <string name="trailerUrl">https://www.youtube.com/watch?v=</string>
+    <string name="plot">Plot</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="trailerbase">https://api.themoviedb.org/3/movie/</string>
+</resources>

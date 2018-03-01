@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <string name="ar_button">Ready to see some cool stuff?</string>
+    <string name="ar_head">INSTRUCTIONS</string>
+    <style name="UnityThemeSelector" parent="android:Theme.Material.Light.NoActionBar.Fullscreen">
+</style>
+</resources>
